@@ -1,0 +1,10 @@
+*.o
+*.swp
+*.a
+encrypt
+decrypt
+jpeg-6b/cjpeg
+jpeg-6b/djpeg
+jpeg-6b/jpegtran
+jpeg-6b/rdjpgcom
+jpeg-6b/wrjpgcom
