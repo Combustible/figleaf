@@ -22,8 +22,8 @@ of the AGPL license - i.e. make your code also available as open source under a
 similar license. See the LICENSE file for more detail.
 
 Some included files have their own licenses:
-- The jpeg-6b library, with license located in figleaf/jpeg-6b/README.
-- The ATT&T faces dataset, with license located in figleaf-torch-nn/sample_data//ATT_README
+- The jpeg-6b library, with license located in [figleaf/jpeg-6b/README](figleaf/jpeg-6b/README).
+- The ATT&T faces dataset, with license located in [figleaf-torch-nn/sample_data/ATT_README](figleaf-torch-nn/sample_data/ATT_README).
 
 
 ## Repository Layout
@@ -39,5 +39,5 @@ schemes against a sophisticated adversary.
 
 
 ## Software Authors
-Charles Wright
-Byron Marohn
+- [Charles Wright](https://github.com/cvwright)
+- [Byron Marohn](https://github.com/Combustible)
