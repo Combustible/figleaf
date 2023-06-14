@@ -9,6 +9,10 @@ JPEG data and the Sodium library for encryption / decryption.
 For more information, see the paper here:
 https://dl.acm.org/doi/10.1145/3137616.3137621
 
+Example from the paper:
+![Example image from the paper showing different approximate thumbnail preserving encryption schemes](figleaf-example.png)
+
+
 ## Legal / License
 Note that this repository has not been maintained since 2017. We make no
 promises that the code here is functional, useful, or correct.
@@ -22,7 +26,6 @@ Some included files have their own licenses:
 - The ATT&T faces dataset, with license located in figleaf-torch-nn/sample_data//ATT_README
 
 
-
 ## Repository Layout
 figleaf - This folder contains the code which implements many different
 encryption/decryption schemes which are selectable via command-line arguments.
@@ -34,7 +37,7 @@ to identify faces even when images have been blurred/mosaic'd, and is included
 here as an adversary to evaluate the resilliance of the image encryption
 schemes against a sophisticated adversary.
 
-## Software Authors
 
+## Software Authors
 Charles Wright
 Byron Marohn
